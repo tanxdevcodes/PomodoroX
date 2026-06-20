@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,3 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # FocusForge
 >>>>>>> 62c7750e61f477dc61498810477c2f9b9a6a344d
+=======
+# PomodoroX
+A modern productivity engine built with React, featuring Pomodoro focus sessions, smart task management, streak tracking, and gamified rewards.
+>>>>>>> 5542623e1bcf80487ea03b8394fda9bbbacef8e2
